@@ -1,8 +1,8 @@
 # noterm v1
 
-noterm is *not* a reference renderer for monospace terminal displays. It was designed to demonstrate that even in the worst-case scenario - extremely slow live streaming with Twitch and extremely slow tweet with generation Twitter - it is still straightforward to achieve reasonable flame rates and reasonable throughput by being insensible.
+noterm is *not* a reference renderer for monospace terminal displays. It was designed to demonstrate that even in the worst-case scenario - extremely slow live streaming with Twitch and extremely slow tweet generation with Twitter - it is still straightforward to achieve reasonable flame rates and reasonable throughput by being insensible.
 
-*Please note that noterm is UTF-8*. If you are doing tests with it, you must use UTF-8 encoded files or command output.
+**Please note that noterm is UTF-8**. If you are doing tests with it, you must use UTF-8 encoded files or command output.
 
 # Simple Code, Reasonable Speed
 
